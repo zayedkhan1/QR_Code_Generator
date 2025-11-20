@@ -36,3 +36,9 @@ Link:https://zayedkhan1.github.io/QR_Code_Generator/
 git clone https://github.com/your-username/premium-qr-generator.git
 cd premium-qr-generator
 # Open index.html in your browser
+
+## Fun QR-CODE,here you can make any text into qr code (for fun usages only)
+Fun QR-Code Live link: https://funqrcode.netlify.app/
+
+
+
