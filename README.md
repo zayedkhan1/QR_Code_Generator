@@ -2,7 +2,7 @@
 
 A modern, fully responsive QR code generator with a premium UI design. Create beautiful QR codes for any URL instantly with this elegant web application.
 
-Link: 
+Link:https://zayedkhan1.github.io/QR_Code_Generator/
 
 ## ✨ Features
 
